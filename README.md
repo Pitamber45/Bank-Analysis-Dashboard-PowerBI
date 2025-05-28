@@ -9,3 +9,5 @@
 ◦ Implemented DAX measures and slicers for dynamic filtering and deep drill-down across customer segments and time periods.
 
 Tech Used: Power BI, DAX, Python, MySQL
+
+
